@@ -176,6 +176,7 @@ activityFilled$day = factor(activityFilled$day, levels = c("weekday", "weekend")
 ```
 
 
+
 * Make a panel plot containing a time series plot (i.e. type = "l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). The plot should look something like the following, which was creating using simulated data:
 
 ```r
